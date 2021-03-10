@@ -27,7 +27,7 @@ NimoTV Clean Theme é uma extenção para navegador que tem o objetivo de tornar
 
 # 
 
-Todos os navegadores que aceitam extençoes baseados em Chromium em compatibilidade com essa estenção
+Todos os navegadores que aceitam extençoes baseados em Chromium tem compatibilidade com essa extenção
 
 ## ⚙️ Instalação
 
