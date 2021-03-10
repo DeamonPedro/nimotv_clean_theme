@@ -7,11 +7,12 @@ NimoTV Clean Theme é uma extenção para navegador que tem o objetivo de tornar
 # 
 
 # Antes
-<img src="https://raw.githubusercontent.com/DeamonPedro/nimotv_clean_theme/main/after.png" alt="after" width="48%" height="auto"/>
+
+<img src="https://raw.githubusercontent.com/DeamonPedro/nimotv_clean_theme/main/before.png" alt="before" width="70%" height="auto"/>
 
 # Depois
 
-<img src="https://raw.githubusercontent.com/DeamonPedro/nimotv_clean_theme/main/before.png" alt="before" width="48%" height="auto"/>
+<img src="https://raw.githubusercontent.com/DeamonPedro/nimotv_clean_theme/main/after.png" alt="after" width="70%" height="auto"/>
 
 ## ☑️ Suporte
 
