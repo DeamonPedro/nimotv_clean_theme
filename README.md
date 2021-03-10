@@ -2,7 +2,7 @@
 
 ## 🤔 O que é?
 
-NimoTV Clean Theme é uma extenção para navegador que tem o objetivo de tornar a interface do site [Nimo.tv](www.nimo.tv) mais amigavel além de filtrar popups e spans
+NimoTV Clean Theme é uma extenção para navegador que tem o objetivo de tornar a interface do site [Nimo.tv](www.nimo.tv) mais amigavel além de filtrar pop-ups e spams
 
 # 
 
