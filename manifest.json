@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Nimo - Twitch Theme",
+    "version": "0.5",
+    "description": "A extensão torna a interface do site www.nimo.tv mais amigável além de filtrar popups e spans",
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.nimo.tv/*"
+            ],
+            "js": [
+                "js/jquery-1.12.4.min.js",
+                "js/content.js"
+            ]
+        }
+    ]
+}
