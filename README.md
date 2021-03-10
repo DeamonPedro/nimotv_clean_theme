@@ -35,9 +35,10 @@ Cada navegador tem seu método para instalação de extenções externas
 
 Passo a passo para instalação no Google Chrome:
 
-- Faça o Download do pacote;
-- Acesse o gerenciador de extenções (chrome://extensions/);
-- Clique na opção "Carregar sem compactação" e selecione a pasta do projeto no navegador de arquivos;
+- Faça o ![Download](https://github.com/DeamonPedro/nimotv_clean_theme/archive/main.zip) do pacote
+- Extraia a pasta do arquivo compactado
+- Acesse o gerenciador de extenções (chrome://extensions/)
+- Clique na opção "Carregar sem compactação" e selecione a pasta extraída
 
 ## 📝 Licença
 
