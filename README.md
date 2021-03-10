@@ -37,7 +37,7 @@ Passo a passo para instalação no Google Chrome:
 
 - Faça o [Download](https://github.com/DeamonPedro/nimotv_clean_theme/archive/main.zip) do pacote
 - Extraia a pasta do arquivo compactado
-- Acesse o gerenciador de extenções (chrome://extensions/)
+- Acesse o gerenciador de extenções (pesquise chrome://extensions/ na barra de pesquisa)
 - Clique na opção "Carregar sem compactação" e selecione a pasta extraída
 
 ## 📝 Licença
