@@ -6,11 +6,11 @@ NimoTV Clean Theme é uma extenção para navegador que tem o objetivo de tornar
 
 # 
 
-# Antes
+## ⏪ Antes
 
 <img src="https://raw.githubusercontent.com/DeamonPedro/nimotv_clean_theme/main/before.png" alt="before" width="70%" height="auto"/>
 
-# Depois
+## ⏩ Depois
 
 <img src="https://raw.githubusercontent.com/DeamonPedro/nimotv_clean_theme/main/after.png" alt="after" width="70%" height="auto"/>
 
